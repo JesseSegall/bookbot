@@ -1,1 +1,1 @@
-my first project
+Small project that takes in a book and reports metrics such as letter count and total char length.
